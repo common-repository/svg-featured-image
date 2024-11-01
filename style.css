@@ -1,0 +1,22 @@
+td.sfi-nirus-svg2png-td {
+    display: flex;
+}
+
+.sfi-nirus-svg2png-td .chkbox {
+    width: 12em;
+    display: flex;
+}
+
+.sfi-nirus-svg2png-td .chkbox img {
+    width: 3em;
+}
+
+.sfi-nirus-svg2png-td .chkbox .chk-opt {
+    margin: auto 0px;
+}
+
+.sfi-nirus-message{
+    margin: 12px auto;
+    font-weight: 400;
+    font-size: 0.9em;;
+}
